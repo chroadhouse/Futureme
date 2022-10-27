@@ -1,2 +1,4 @@
 # Futureme
-Used in the RISE future me course for data analysis using python 
+
+Download the files here to be used for the different daily activities 
+
