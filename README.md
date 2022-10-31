@@ -5,9 +5,9 @@ Here is the link to the google drive that holds the google collab version of the
 
 To run these files on your personal machine, please ensure both python 3.9 and Anaconda3 are installed. 
 
-•Link to install the latest stable build of python is here: 
+•Link to install the latest stable build of python is here: https://www.python.org/downloads/
 
-•Link to the stablest version of Anaconda3 here: 
+•Link to the stablest version of Anaconda3 here: https://www.anaconda.com
 
 When you have these installed please open anacoda3 and then open the jupiter notebook application before navigating to where you keep the files. 
 
