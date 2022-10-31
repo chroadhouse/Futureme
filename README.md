@@ -1,7 +1,7 @@
 # Futureme
 Here you will find the jupiter notebook files and any python files that are related to the futureme data analysis course. 
 
-Here is the link to the google drive that holds the google collab version of these files. 
+Here is the link to the google drive that holds the google collab version of these files: https://drive.google.com/drive/folders/1XrtdtfBCQM121j3etF7iMtQNzudg2bTG?usp=sharing
 
 To run these files on your personal machine, please ensure both python 3.9 and Anaconda3 are installed. 
 
