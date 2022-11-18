@@ -26,6 +26,16 @@ To get the files into google collab you can
 * Downloading the files from github and then dragging them into google drive to then open them in google collab
 
 * Go to google collab, got to open a new notebook, click to the github tab and paste the url for this repository 
+<img width="806" alt="Screenshot 2022-11-18 at 16 14 43" src="https://user-images.githubusercontent.com/62378859/202751702-59e4948e-6586-4348-bad9-f7b03b288418.png">
+<img width="723" alt="Screenshot 2022-11-18 at 16 15 24" src="https://user-images.githubusercontent.com/62378859/202751723-c0fb53fd-c07b-4ad8-ad0b-4cda9327cc04.png">
+
+
+
 
 ## Downloading from github
 If you are wanting to download from github, click on the green button that says code and then download the zip file.
+
+<img width="466" alt="Screenshot 2022-11-18 at 16 14 19" src="https://user-images.githubusercontent.com/62378859/202751302-1e47ada5-166e-44eb-96d1-aa2ca820e0dd.png">
+
+
+
